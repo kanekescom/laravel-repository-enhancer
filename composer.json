@@ -1,0 +1,36 @@
+{
+    "name": "kanekescom/laravel-repository-pill",
+    "description": "Laravel package to enhance repository capabilities",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Achmad Hadi Kurnia",
+            "email": "imachmadhadikurnia@gmail.com",
+            "homepage": "https://achmadhadikurnia.com"
+        }
+    ],
+    "homepage": "https://github.com/kanekescom/laravel-repository-pill",
+    "keywords": [
+        "laravel",
+        "repository",
+        "laravel-repository-pill"
+    ],
+    "require": {
+        "prettus/l5-repository": "^2.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6.10",
+        "orchestra/testbench": "^6.28.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kanekescom\\RepositoryPill\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kanekescom\\RepositoryPill\\Tests\\": "tests"
+        }
+    }
+}
