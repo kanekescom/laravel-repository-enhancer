@@ -2,7 +2,7 @@
 
 Contributions are welcome and will be fully credited.
 
-Contributions are accepted via Pull Requests on [Github](https://github.com/kanekescom/laravel-repository-pill).
+Contributions are accepted via Pull Requests on [Github](https://github.com/kanekescom/laravel-repository-enhancer).
 
 # Things you could do
 If you want to contribute but do not know where to start, this list provides some starting points.
