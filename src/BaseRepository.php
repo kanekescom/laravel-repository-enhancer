@@ -1,8 +1,8 @@
 <?php
 
-namespace Kanekescom\RepositoryPill;
+namespace Kanekescom\RepositoryEnhancer;
 
-use Kanekescom\RepositoryPill\Traits\RepositoryTrait;
+use Kanekescom\RepositoryEnhancer\Traits\RepositoryTrait;
 use Prettus\Repository\Eloquent\BaseRepository as PrettusBaseRepository;
 
 abstract class BaseRepository extends PrettusBaseRepository

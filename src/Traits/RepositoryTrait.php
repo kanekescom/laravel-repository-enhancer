@@ -1,6 +1,6 @@
 <?php
 
-namespace Kanekescom\RepositoryPill\Traits;
+namespace Kanekescom\RepositoryEnhancer\Traits;
 
 trait RepositoryTrait
 {
