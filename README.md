@@ -1,4 +1,4 @@
-# Laravel Repository Pill
+# Laravel Repository Enhancer
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
@@ -12,7 +12,7 @@ Laravel package to enhance repository capabilities.
 Via Composer
 
 ``` bash
-$ composer require kanekescom/laravel-repository-pill
+$ composer require kanekescom/laravel-repository-enhancer
 ```
 
 ## Usage
@@ -44,14 +44,14 @@ If you discover any security related issues, please email imachmadhadikurnia@gma
 
 MIT. Please see the [license file](LICENSE) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/kanekescom/laravel-repository-pill.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/kanekescom/laravel-repository-pill.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/kanekescom/laravel-repository-pill/master.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/kanekescom/laravel-repository-enhancer.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/kanekescom/laravel-repository-enhancer.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/kanekescom/laravel-repository-enhancer/master.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/12345678/shield
 
-[link-packagist]: https://packagist.org/packages/kanekescom/laravel-repository-pill
-[link-downloads]: https://packagist.org/packages/kanekescom/laravel-repository-pill
-[link-travis]: https://travis-ci.org/kanekescom/laravel-repository-pill
+[link-packagist]: https://packagist.org/packages/kanekescom/laravel-repository-enhancer
+[link-downloads]: https://packagist.org/packages/kanekescom/laravel-repository-enhancer
+[link-travis]: https://travis-ci.org/kanekescom/laravel-repository-enhancer
 [link-styleci]: https://styleci.io/repos/12345678
 [link-author]: https://github.com/kanekescom
 [link-contributors]: ../../contributors

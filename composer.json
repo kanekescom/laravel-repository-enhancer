@@ -1,5 +1,5 @@
 {
-    "name": "kanekescom/laravel-repository-pill",
+    "name": "kanekescom/laravel-repository-enhancer",
     "description": "Laravel package to enhance repository capabilities",
     "type": "library",
     "license": "MIT",
@@ -10,11 +10,11 @@
             "homepage": "https://achmadhadikurnia.com"
         }
     ],
-    "homepage": "https://github.com/kanekescom/laravel-repository-pill",
+    "homepage": "https://github.com/kanekescom/laravel-repository-enhancer",
     "keywords": [
         "laravel",
         "repository",
-        "laravel-repository-pill"
+        "laravel-repository-enhancer"
     ],
     "require": {
         "prettus/l5-repository": "^2.9"
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Kanekescom\\RepositoryPill\\": "src/"
+            "Kanekescom\\RepositoryEnhancer\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Kanekescom\\RepositoryPill\\Tests\\": "tests"
+            "Kanekescom\\RepositoryEnhancer\\Tests\\": "tests"
         }
     }
 }
