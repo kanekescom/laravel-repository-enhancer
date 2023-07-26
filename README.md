@@ -9,7 +9,7 @@ Laravel package to enhance repository capabilities.
 
 ## Installation
 
-Via Composer
+You can install the package via composer:
 
 ``` bash
 $ composer require kanekescom/laravel-repository-enhancer
